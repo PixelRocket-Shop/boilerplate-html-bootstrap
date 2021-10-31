@@ -1,0 +1,17 @@
+// Import Bootstrap Utils so that you can amend them
+@import '~bootstrap/scss/utilities';
+
+
+/* Example custom API util */
+// $utilities: map-merge(
+//   $utilities,
+//   (
+//     "cursor": (
+//       property: cursor,
+//       values: (
+//         default: default,
+//         pointer: pointer
+//       )
+//     )          
+//   )
+// )
