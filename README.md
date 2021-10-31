@@ -61,7 +61,7 @@ Handlebars is a template engine that allows us to keep our template source code 
 
 
 ## Template JSON Data
-The Webpack Handlebars plugin that we use comes with a very handy utility that allows us to pass in JSON files as template data.
+The Webpack Handlebars plugin that we use comes with a utility that allows us to pass in JSON files as template data.
 
 Please navigate to: src/data. Here is where our template data JSON files reside. You can edit, remove or add your own to this folder.
 
